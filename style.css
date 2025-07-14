@@ -4,7 +4,7 @@ html{
     background-repeat: no-repeat;
 }
 body{
-    background: green;
+    background: rgb(192, 192, 192);
     width: 90%;
     max-width: 800px;
     margin:50px auto;
